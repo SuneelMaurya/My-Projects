@@ -1,6 +1,8 @@
-public class HelloWorld {
-      public static void main(String args[]){
-            //This line will print "Hello World".
-            System.out.println("Hello World.");
-      }
+# just for say to Hello World
+public class helloworld{
+
+ public static void main(string are[]){
+
+system.out.println("Hello_world")
+        }
 }
